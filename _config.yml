@@ -22,11 +22,11 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
+  name             : "Enrique M. del Castillo"
+  pronouns         :  "he, him, his"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Stanford University"
+  location         : "Stanford University, CA"
+  employer         : "Dept. of Civil and Environmental Engineering, Blume Earthquake Engineering Center"
   uri              : # URL
   email            : "none@example.org" 
 
