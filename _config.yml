@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Enrique M. del Castillo"
+title                    : "Enrique's Homepage"
 title_separator          : "-"
 name                     : &name "Enrique M. del Castillo"
 description              : &description "personal description"
