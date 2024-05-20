@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Enrique M. del Castillo"
   pronouns         :  "he, him, his"  
-  bio              : "Short biography for the left-hand sidebar"
+ # bio              : "Short biography for the left-hand sidebar"
   #location         : "Stanford University, CA"
   employer         : "Stanford University"
   uri              : # URL
