@@ -2,7 +2,7 @@
 main:
 
   - title: "Projects"
-    url: /files/emdc_cv.pdf   
+    url: /projects/  
 
   - title: "Publications"
     url: /publications/
@@ -11,5 +11,5 @@ main:
     url: /teaching/    
     
   - title: "CV"
-    url: /cv/
+    url: /files/emdc_cv.pdf 
 
