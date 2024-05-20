@@ -25,8 +25,8 @@ author:
   name             : "Enrique M. del Castillo"
   pronouns         :  "he, him, his"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Stanford University, CA"
-  employer         : "Dept. of Civil and Environmental Engineering, Blume Earthquake Engineering Center"
+  #location         : "Stanford University, CA"
+  employer         : "Stanford University"
   uri              : # URL
   email            : "none@example.org" 
 
