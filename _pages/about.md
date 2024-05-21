@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+#title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I am a Ph.D. candidate at Stanford University in the Geomechanics program within the Department of Civil and Environmental Engineering. My research interests lie in understanding the mechanics and physics of granular and porous media found in nature such as soil, rock, ice, and snow, or in industrial processes using both computational and experimental methods, as well as across spatial scales, focusing on interdisciplinary problems between geomechanics, geotechnics, and geophysics. I wish to leverage my knowledge of computational mechanics and data-driven modeling to help understand and mitigate risks to the built environment posed by natural hazards and climate change, particularly by pushing the envelope of traditional mechanistic engineering modeling and accounting for large material deformations and the post-failure behavior of structures, in turn helping to improve critical infrastructure resilience. To this end, my doctoral research has brought me to meshfree methods where I developed computer codes for smoothed particle hydrodynamics (SPH) and the discrete element method (DEM) for tackling diverse problems ranging from the performance and failure of embankment dams and levees under fault-rupture and seismic loading, to explaining the formation of mountain ranges looking at the development of faults and strain localization zones.
 
 A data-driven personal website
 ======
